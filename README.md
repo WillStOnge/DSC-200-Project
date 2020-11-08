@@ -5,3 +5,5 @@ Members:
 - Will St. Onge
 - Ganga Adhikari
 - Guysnove Lutumba
+
+Dataset used: https://github.com/datasets/s-and-p-500/blob/master/data/data.csv
