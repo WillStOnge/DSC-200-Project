@@ -14,8 +14,6 @@ def main():
     figure3(data)
     figure4(data)
     figure5(data)
-    print(data)
-
 
 def figure1(data):
     plt.plot(data[:, 1],'o', color='blue')
